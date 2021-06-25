@@ -1,0 +1,13 @@
+{
+    "xs": [
+        "ft_intensity"
+    ],
+    "ys": [
+        "real_phase",
+        "real_intensity"
+    ],
+    "dpath": "data3_numpy_arrays_3D_and_flatphase",
+    "act": "relu",
+    "dimension": "3D",
+    "data_format": "channels_first"
+}
