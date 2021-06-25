@@ -1,0 +1,1 @@
+oversample_ratio 1.778 2.461 1.524
