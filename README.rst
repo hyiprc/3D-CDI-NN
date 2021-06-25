@@ -9,6 +9,8 @@ simulations. Custom codes are written to handle the resampling of
 diffraction images to oversampling ratios appropriate for the neural
 network model.
 
+.. image:: ./docs/_static/output_compare.png
+    :alt: Comparing output from phase retrieval, 3D-CDI-NN prediction, and AD refined 3D-CDI-NN prediction
 
 Reference:
 
